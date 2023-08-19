@@ -20,6 +20,7 @@ Houve a aplicação apropriada da técnica, a qual respondeu de forma satisfató
 
 O relatório dessa avaliação de impacto exibe claramente que 
 > _The probability of obtaining this effect by chance is very small (Bayesian one-sided tail-area probability p = 0.0). This means the causal effect can be considered statistically significant._ 
+
 Logo, a intervenção possui significância estatística. 
 
 Ou seja, o que foi anunciado pelo governo (aparentemente) não está somente no campo da retórica. Há um certo conforto em afirmar isso, dado que a variável de controle possui alta correlação com a endógenda (preço da gasolina) e não está vinculada à nova política implementada. 
