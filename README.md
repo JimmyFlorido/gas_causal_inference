@@ -14,7 +14,13 @@ Vale destacar que [foi instalado](https://pypi.org/project/pycausalimpact/) o `p
 
 ## Conclusão
 
-Houve a aplicação apropriada da técnica, a qual respondeu de forma satisfatória, ao indicar que a partir de 16 de maio houve __uma redução persistente__ de quase 5% do valor da gasolina até meados de agosto de 2023. 
+Houve a aplicação apropriada da técnica, a qual respondeu de forma satisfatória, ao indicar que a partir de 16 de maio houve __uma redução persistente__ de quase 5% do valor da gasolina até meados de agosto de 2023. A imagem abaixo demonstra a aplicação de controle sintético para aferir tal conclusão: 
+
+![Evaluation](images/image.png)
+
+O relatório dessa avaliação impacto exibe claramente que 
+> _The probability of obtaining this effect by chance is very small (Bayesian one-sided tail-area probability p = 0.0). This means the causal effect can be considered statistically significant._ 
+possui significância estatística. 
 
 Ou seja, o que foi anunciado pelo governo (aparentemente) não está somente no campo da retórica. Há um certo conforto em afirmar isso, dado que a variável de controle possui alta correlação com a endógenda (preço da gasolina) e não está vinculada à nova política implementada. 
 
